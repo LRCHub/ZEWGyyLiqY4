@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "God's Country",
+  "base_artist": "Blake Shelton",
+  "createdAt": "2025-12-14T14:33:49.890045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/01_God's_Country_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God's Country (Acoustic)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/02_God's_Country_(Acoustic)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In God's Country",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/03_In_God's_Country_U2.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain feat. Wicca Phase Springs Eternal",
+      "has_synced": true,
+      "path": "select/04_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain_feat._Wicca_Phase_Springs_Eternal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "God's Country (feat. Wicca Phase Springs Eternal)",
+      "artist": "Ethel Cain",
+      "has_synced": true,
+      "path": "select/05_God's_Country_(feat._Wicca_Phase_Springs_Eternal)_Ethel_Cain.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Devil In God's Country",
+      "artist": "Lamb of God",
+      "has_synced": true,
+      "path": "select/06_A_Devil_In_God's_Country_Lamb_of_God.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Adevil In God's Country",
+      "artist": "Lamb Of God",
+      "has_synced": true,
+      "path": "select/07_Adevil_In_God's_Country_Lamb_Of_God.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In God's Country",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/08_In_God's_Country_U2.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "Kool & The Gang",
+      "has_synced": false,
+      "path": "select/09_God's_Country_Kool_&_The_Gang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "God’s Country",
+      "artist": "Ethel Cain",
+      "has_synced": false,
+      "path": "select/10_God’s_Country_Ethel_Cain.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In God’s Country",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/11_In_God’s_Country_U2.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/12_God's_Country_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In God's Country",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/13_In_God's_Country_U2.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "State of Mine feat. Drew Jacobs",
+      "has_synced": true,
+      "path": "select/14_God's_Country_State_of_Mine_feat._Drew_Jacobs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "STATE OF MINE; Drew Jacobs",
+      "has_synced": true,
+      "path": "select/15_God's_Country_STATE_OF_MINE;_Drew_Jacobs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "God's Country",
+      "artist": "Blake Shelton",
+      "has_synced": false,
+      "path": "select/pl_01_God's_Country_Blake_Shelton.txt"
+    }
+  ]
+}
